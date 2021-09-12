@@ -7,6 +7,8 @@
 [GSoC Proposal.pdf](GSoC%202018%20Proposal%20-%20Improve%20SUSI%20bots%20-%20Harshit%20Kedia.pdf)
 
 ## Starting Contributing
+Contributions Guide at Fossasia: **https://blog.fossasia.org/open-source-developer-guide-and-best-practices-at-fossasia/**
+
 1. Fork a project, find bugs in them
 2. Susi.ai web app: https://susi.ai/
 3. Sample Change: https://github.com/hkedia321/chat.susi.ai/commit/82148ec93202eff176b92de721e6831be5bbd90c
