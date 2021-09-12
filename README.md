@@ -4,7 +4,7 @@
 [GSoC and Career in tech.pdf](GSOC%20&%20Career%20in%20Tech.pdf)
 
 ## My GSoC Proposal
-[GSoC Proposal.pdf](GSoC%202018%20Proposal%20-%20Improve%20SUSI%20bots%20-%20Harshit%20Kedia.pdf)
+[GSoC Proposal - Fossasia.pdf](GSoC%202018%20Proposal%20-%20Improve%20SUSI%20bots%20-%20Harshit%20Kedia.pdf)
 
 ## Starting Contributing
 Contributions Guide at Fossasia: **https://blog.fossasia.org/open-source-developer-guide-and-best-practices-at-fossasia/**
